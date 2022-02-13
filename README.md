@@ -1,3 +1,6 @@
 # hello-world
 My first. repositroy
-Hi This is about me leaning how to use git hub
+Hi This is about me leaning 
+Yes this seems to work
+so well 
+indeeed
